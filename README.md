@@ -5,3 +5,6 @@ Going from one road (node) to another (node) has a cost (g) that indicate distan
 
 # How do I generate a problem?
 Includes random problem generator for testing (MapGenerator class).
+
+# See more
+https://en.wikipedia.org/wiki/A*_search_algorithm
